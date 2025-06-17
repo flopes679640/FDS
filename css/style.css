@@ -1,0 +1,57 @@
+body{
+    background-color: #f0f8ff;
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+h1{
+    text-align: center;
+    color: cornflowerblue;
+}
+p{
+    text-align: justify;
+    font-size: 20px;
+    padding-inline: 100px;
+}
+ul{
+    padding-left: 80px;
+    margin-top: 20px;
+}
+ul, li{
+margin: 15px;
+ font-size: 20px;
+
+}
+
+#fotoHobbis{
+    height: 200px;
+    height: 200px;
+    border-radius: 12px;
+}
+
+table, table th, table td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 8px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+.fotoTabela{
+    height: 300px;
+    width: 300px;
+    border-radius: 12px;
+}
+
+a:hover{
+    color: red;
+    cursor: pointer;
+}
+.botaoMensagem{
+    background-color: rgb(149, 192, 192);
+    border-radius: 8px;
+    height: auto;
+    width: auto;
+    padding: 8px;
+    display: block;
+    margin: auto;
+}
